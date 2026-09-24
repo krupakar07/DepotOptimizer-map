@@ -64,7 +64,7 @@ if page == "🗺️ Live Map & Driver Planning":
 
     components.html(
         html_source,
-        height=1200,
+        height=1500,
         scrolling=True,
     )
 
